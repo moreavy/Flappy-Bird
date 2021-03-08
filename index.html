@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Flappy Bird</title>
+  <script type="text/javascript" src="./_basic.js"></script>
+  <link rel="stylesheet" href="./_flow.css">
+</head>
+
+<body class="loading">
+  <div id="wrapper">
+    <canvas id="stage"></canvas>
+    <div id="monitors"></div>
+    <div id="asking-box">
+      <label id="question" for="answer">Question</label>
+      <input type="text" id="answer">
+    </div>
+  </div>
+
+
+  <div id="loading-progress" data-progress="0/0"></div>
+
+
+  <div class="buttons">
+
+
+    <button id="fullscreen-btn" aria-label="Enter/exit fullscreen"></button>
+
+  </div>
+  <textarea id="errors" readonly></textarea>
+  <script type="text/javascript" src="./_api.js"></script>
+</body>
+
+</html>
