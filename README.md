@@ -1,5 +1,5 @@
 # Flappy-Bird
-[![Jekyll site CI](https://github.com/moreavy/Flappy-Bird/actions/workflows/jekyll.yml/badge.svg?branch=master)](https://github.com/moreavy/Flappy-Bird/actions/workflows/jekyll.yml)
+[![Jekyll site CI](https://github.com/moreavy/Flappy-Bird/actions/workflows/jekyll.yml/badge.svg)](https://github.com/moreavy/Flappy-Bird/actions/workflows/jekyll.yml)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 - A simple game created with Scratch (https://scratch.mit.edu/) and compiles with https://sheeptester.github.io/htmlifier/
